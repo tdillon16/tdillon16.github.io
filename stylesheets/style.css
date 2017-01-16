@@ -8,3 +8,9 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
+.logo {
+  width: 20px;
+  }
+h4 {
+  font-color: pink;
+}
